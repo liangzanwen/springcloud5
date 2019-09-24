@@ -10,6 +10,13 @@
     <version>pom</version>
     <modules>
         <module>consulapi</module>
+        <module>consul1</module>
+        <module>consul2</module>
+        <module>consul3</module>
+        <module>consul4</module>
+        <module>webflux_mongodb</module>
+        
+        
         <module>hellostarter</module>
         <module>shirostudyone</module>
         <module>shirostudywebtwo</module>
